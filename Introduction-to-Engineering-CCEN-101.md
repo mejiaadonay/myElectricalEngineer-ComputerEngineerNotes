@@ -8,3 +8,8 @@
 **Computer Engineering:**
 
 **Engineering Desciplines**
+
+#	Resources:
+***
+
+*	[Playscale](http://www.playscale.com)
