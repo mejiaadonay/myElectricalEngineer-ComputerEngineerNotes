@@ -20,10 +20,21 @@
 *	etc...
 
 **NOTE:** Read about What is an autonomous, stakeholders, showcases?
-	
 
+***
+
+
+***
 #	Resources:
 ***
+
+### Books:
+
+*	Strategies for Creative Problem Solving, Scott Fogler and Steven LeBlane 3rd Ediction, PH
+*	
+
+
+### Website and Links:
 
 *	[Playscale](http://www.playscale.com)
 
