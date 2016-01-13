@@ -9,6 +9,16 @@
 
 **Engineering Desciplines**
 
+**What are some electrical devices?**
+
+*	Clocks
+*	Radios
+*	Remote Controllers
+*	Antenna/Cables
+*	Handhold Devices/Smarthphones
+*	Microwaves
+*	etc...	
+
 #	Resources:
 ***
 
