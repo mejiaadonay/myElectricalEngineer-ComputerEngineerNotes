@@ -17,7 +17,10 @@
 *	Antenna/Cables
 *	Handhold Devices/Smarthphones
 *	Microwaves
-*	etc...	
+*	etc...
+
+**NOTE:** Read about What is an autonomous, stakeholders, showcases?
+	
 
 #	Resources:
 ***
