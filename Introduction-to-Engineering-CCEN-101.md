@@ -1,7 +1,8 @@
 #	CCEN-101: Introduction to Engineering
 ***
 
-#### Definition of an Electrical Engineer and an Computer Engineer?
+#### Definition of an Electrical Engineering and an Computer Engineering?
 
-**Electrical Engineer:**
-**Computer Engineer:**
+**Electrical Engineering:**
+
+**Computer Engineering:**
