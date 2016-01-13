@@ -31,7 +31,7 @@
 ### Books:
 
 *	Strategies for Creative Problem Solving, Scott Fogler and Steven LeBlane 3rd Ediction, PH
-*	
+*	Parallay Boebot
 
 
 ### Website and Links:
